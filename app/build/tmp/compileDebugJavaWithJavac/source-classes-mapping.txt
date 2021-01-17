@@ -11,17 +11,8 @@ com/iven/musicplayergo/adapters/SongsAdapter.java
  com.iven.musicplayergo.adapters.SongsAdapter$SongSelectedListener
 com/iven/musicplayergo/playback/PlayerAdapter.java
  com.iven.musicplayergo.playback.PlayerAdapter
-com/iven/musicplayergo/MainActivity.java
- com.iven.musicplayergo.MainActivity
- com.iven.musicplayergo.MainActivity$1
- com.iven.musicplayergo.MainActivity$2
- com.iven.musicplayergo.MainActivity$3
- com.iven.musicplayergo.MainActivity$4
- com.iven.musicplayergo.MainActivity$5
- com.iven.musicplayergo.MainActivity$6
- com.iven.musicplayergo.MainActivity$7
- com.iven.musicplayergo.MainActivity$8
- com.iven.musicplayergo.MainActivity$PlaybackListener
+com/iven/musicplayergo/BuildConfig.java
+ com.iven.musicplayergo.BuildConfig
 com/iven/musicplayergo/models/Album.java
  com.iven.musicplayergo.models.Album
 com/iven/musicplayergo/models/Song.java
@@ -30,8 +21,11 @@ com/iven/musicplayergo/adapters/ColorsAdapter.java
  com.iven.musicplayergo.adapters.ColorsAdapter
  com.iven.musicplayergo.adapters.ColorsAdapter$AccentChangedListener
  com.iven.musicplayergo.adapters.ColorsAdapter$SimpleViewHolder
-com/iven/musicplayergo/playback/MusicNotificationManager.java
- com.iven.musicplayergo.playback.MusicNotificationManager
+com/iven/musicplayergo/playback/MediaPlayerHolder.java
+ com.iven.musicplayergo.playback.MediaPlayerHolder
+ com.iven.musicplayergo.playback.MediaPlayerHolder$1
+ com.iven.musicplayergo.playback.MediaPlayerHolder$2
+ com.iven.musicplayergo.playback.MediaPlayerHolder$NotificationReceiver
 com/iven/musicplayergo/models/Artist.java
  com.iven.musicplayergo.models.Artist
 com/iven/musicplayergo/adapters/ArtistsAdapter.java
@@ -71,10 +65,16 @@ com/iven/musicplayergo/loaders/ArtistProvider.java
  com.iven.musicplayergo.loaders.ArtistProvider$AsyncArtistLoader
 com/iven/musicplayergo/slidinguppanel/RecyclerViewHelper.java
  com.iven.musicplayergo.slidinguppanel.RecyclerViewHelper
-com/iven/musicplayergo/playback/MediaPlayerHolder.java
- com.iven.musicplayergo.playback.MediaPlayerHolder
- com.iven.musicplayergo.playback.MediaPlayerHolder$1
- com.iven.musicplayergo.playback.MediaPlayerHolder$2
- com.iven.musicplayergo.playback.MediaPlayerHolder$NotificationReceiver
-com/iven/musicplayergo/BuildConfig.java
- com.iven.musicplayergo.BuildConfig
+com/iven/musicplayergo/MainActivity.java
+ com.iven.musicplayergo.MainActivity
+ com.iven.musicplayergo.MainActivity$1
+ com.iven.musicplayergo.MainActivity$2
+ com.iven.musicplayergo.MainActivity$3
+ com.iven.musicplayergo.MainActivity$4
+ com.iven.musicplayergo.MainActivity$5
+ com.iven.musicplayergo.MainActivity$6
+ com.iven.musicplayergo.MainActivity$7
+ com.iven.musicplayergo.MainActivity$8
+ com.iven.musicplayergo.MainActivity$PlaybackListener
+com/iven/musicplayergo/playback/MusicNotificationManager.java
+ com.iven.musicplayergo.playback.MusicNotificationManager
